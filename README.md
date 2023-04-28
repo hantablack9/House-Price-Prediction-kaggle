@@ -8,5 +8,7 @@ The broad aims of this Machine Learning Project are to understand the dataset an
 
 
 The link to the dataset is found in the link below:
+
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+
 Ames dataset: House Price prediction for kaggle competition (advanced regression, supervised ML)
