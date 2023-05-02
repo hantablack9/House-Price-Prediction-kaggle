@@ -11,6 +11,8 @@ The dataset and documentation can be found in these links:
 [1. Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 [2. Feature documentation by Dean de Cock](https://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
 
+
+
 ### Some insights that I've gleaned from studying Instructor's notes about the ['Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project'](https://jse.amstat.org/v19n3/decock.pdf) by Dean De Cock, Truman State University
 
 
