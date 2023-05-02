@@ -11,7 +11,7 @@ The dataset and documentation can be found in these links:
 [1. Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 [2. Feature documentation by Dean de Cock](https://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
 
-## Some insights that I've gleaned from studying Instructor's notes about the ['Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project'](https://jse.amstat.org/v19n3/decock.pdf) by Dean De Cock, Truman State University
+### Some insights that I've gleaned from studying Instructor's notes about the ['Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project'](https://jse.amstat.org/v19n3/decock.pdf) by Dean De Cock, Truman State University
 
 
 1.  The dataset contains 2930 observations and a set of 80 explanatory variables (23 nominal, 23 ordinal, 14 discrete, and 20 continuous) involved in assessing home values.
